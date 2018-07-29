@@ -21,7 +21,15 @@
 
 ### Day 2: July 27, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Reviewed recursive functions
 
 **Link to work:**
 - [Day 2 of 100 Days to Python Mastery](https://www.youtube.com/watch?v=deJRNHUNo2I&feature=youtu.be)
+
+
+### Day 3: July 29, 2018
+
+**Today's Progress**: Reviewed a long article on Lists and Tuples in Python
+
+**Link to work:**
+- [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
