@@ -10,9 +10,18 @@
 **Link to work:**
 - [100 Days to Python Mastery](https://www.youtube.com/playlist?list=PLQh6rb1mrE_Ywz-LGD9DQb1_ofqn8X05U)
 
+
 ### Day 1: July 26, 2018
 
 **Today's Progress**: Went over a detailed article on Strings and Character Data. Learnt a few new things regarding string methods and byte types.
 
 **Link to work:**
 - [Strings and Character Data in Python](https://realpython.com/python-strings/)
+
+
+### Day 2: July 27, 2018
+
+**Today's Progress**: 
+
+**Link to work:**
+- [Day 2 of 100 Days to Python Mastery](https://www.youtube.com/watch?v=deJRNHUNo2I&feature=youtu.be)
