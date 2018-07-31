@@ -33,3 +33,11 @@
 
 **Link to work:**
 - [Lists and Tuples in Python](https://realpython.com/python-lists-tuples/)
+
+
+### Day 4: July 31, 2018
+
+**Today's Progress**: Reviewed an article on Python string formatting
+
+**Link to work:**
+- [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)
