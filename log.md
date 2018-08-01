@@ -41,3 +41,12 @@
 
 **Link to work:**
 - [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)
+
+
+### Day 5: Aug 1, 2018
+
+**Today's Progress**: Reviewed an article on Python string formatting
+
+**Link to work:**
+- (https://codechalleng.es/bites/109/)
+- (https://codechalleng.es/bites/110/)
