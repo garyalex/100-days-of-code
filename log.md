@@ -50,3 +50,11 @@
 **Link to work:**
 - (https://codechalleng.es/bites/109/)
 - (https://codechalleng.es/bites/110/)
+
+
+### Day 6: Aug 2, 2018
+
+**Today's Progress**: Went through and practiced CSV reading and writing
+
+**Link to work:**
+- (https://realpython.com/python-csv/)
