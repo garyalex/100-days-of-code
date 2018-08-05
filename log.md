@@ -74,3 +74,11 @@
 
 **Link to work:**
 - [Python - Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
+
+
+### Day 9: Aug 5, 2018
+
+**Today's Progress**: Reading up on Python Application layouts
+
+**Link to work:**
+- [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
