@@ -58,3 +58,19 @@
 
 **Link to work:**
 - (https://realpython.com/python-csv/)
+
+
+### Day 7: Aug 3, 2018
+
+**Today's Progress**: Working through a Youtube playlist of Python Intermediate and Advanced Features.
+
+**Link to work:**
+- [Python - Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
+
+
+### Day 8: Aug 4, 2018
+
+**Today's Progress**: Continued working through a Youtube playlist of Python Intermediate and Advanced Features.
+
+**Link to work:**
+- [Python - Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
