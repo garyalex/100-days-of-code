@@ -82,3 +82,11 @@
 
 **Link to work:**
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
+
+
+### Day 10: Aug 6, 2018
+
+**Today's Progress**: Youtube video time! I watched: David DB Baumgold - Looping Like a Pro in Python
+
+**Link to work:**
+- [David DB Baumgold - Looping Like a Pro in Python - PyCon 2017](https://youtu.be/u8g9scXeAcI?list=PL4DgwnawUBJepIPm4jS8cpU-UK2LgyT8o)
