@@ -90,3 +90,11 @@
 
 **Link to work:**
 - [David DB Baumgold - Looping Like a Pro in Python - PyCon 2017](https://youtu.be/u8g9scXeAcI?list=PL4DgwnawUBJepIPm4jS8cpU-UK2LgyT8o)
+
+
+### Day 11: Aug 7, 2018
+
+**Today's Progress**: Reviewing and practicing regular expressions as part of the Sololearn Python Course.
+
+**Link to work:**
+- [Sololearn Python](https://www.sololearn.com/Play/Python)
