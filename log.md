@@ -98,3 +98,19 @@
 
 **Link to work:**
 - [Sololearn Python](https://www.sololearn.com/Play/Python)
+
+
+### Day 12: Aug 10, 2018
+
+**Today's Progress**: Warching Pycon Talks - Nina Zakharenko - Elegant Solutions For Everyday Python Problems
+
+**Link to work:**
+- [Pycon Talk - Nina Zakharenko - Elegant Solutions For Everyday Python Problems](https://t.co/yMnKoKpDrJ)
+
+
+### Day 13: Aug 12, 2018
+
+**Today's Progress**: Started doing code exercises on Exercism
+
+**Link to work:**
+- [Exercism](https://exercism.io/)
