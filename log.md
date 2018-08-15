@@ -114,3 +114,8 @@
 
 **Link to work:**
 - [Exercism](https://exercism.io/)
+
+
+### Day 14: Aug 14, 2018
+
+**Today's Progress**: Worked on a script to interface with Site24x7 API
